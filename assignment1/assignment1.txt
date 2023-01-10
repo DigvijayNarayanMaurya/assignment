@@ -1,0 +1,9 @@
+Using the ssh-keygen command, create a pair of SSH keys for GitHub.
+The public SSH key's value should be copied to the clipboard.
+After logging in, go to your account settings on GitHub.
+
+Select the SSH and GPG links.
+To link the public SSH key to your account, click Add Key.
+Put the copied value in the text box after naming the key.
+Save your alterations
+Use the SSH-based GitHub URL in your Git client to clone your repository.
